@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/alexpalombaro/modernizr-webpack-plugin#readme",
   "dependencies": {
-    "modernizr": "^3.5.0",
+    "modernizr": "^3.6.0",
     "object-assign": "^4.0.1",
     "uglify-js": "^2.4.24",
     "webpack-core": "^0.6.7",
